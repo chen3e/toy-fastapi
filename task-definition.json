@@ -85,6 +85,5 @@
     "memory": "3072",
     "registeredAt": "2026-07-14T01:20:05.729Z",
     "registeredBy": "arn:aws:iam::952441043493:root",
-    "enableFaultInjection": false,
     "tags": []
 }
