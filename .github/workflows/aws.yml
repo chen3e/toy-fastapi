@@ -33,7 +33,7 @@ on:
 env:
   AWS_REGION: us-east-1
   ECR_REPOSITORY: demo/toy-fastapi
-  ECS_SERVICE: test-service-eu8k5xn8
+  ECS_SERVICE: test-task-definition-service-qvs3ngn7
   ECS_CLUSTER: test-cluster
   ECS_TASK_DEFINITION: task-definition.json # set this to the path to your Amazon ECS task definition
                                                # file, e.g. .aws/task-definition.json
